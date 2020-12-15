@@ -18,9 +18,10 @@
 ![image](https://www.digitaltveurope.com/files/2020/07/Logic-768x576.jpg)
 
 
-
 # What is Hip Hop?
 
+* Hip hop music, also known as rap music, is a genre of popular music developed in the Bronx borough of New York City in the 1970s. (Encyclopedia Britanica)
+* In 2018, hip-hop and rap music accounted for 21.7 percent of total music consumption in the United States making it the most consumed genre of music in the US (Statista)
 
 # NLP and Topic Modeling
 
