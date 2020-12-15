@@ -31,11 +31,18 @@
 
 - Club/Materialistic
   - Words associated with topic: money, fuck, hoes, h*, p**sy, gang, lil, sh*t, ass, bad, d*ck, boy, pull, rich, smoke, hundred, big, diamonds, getting, new, talkin
+  
 - Love/Romance
+  - Words associated with topic: love, baby, girl, wan, need, hey, shawty, want, girls, good, right, let, tell, tonight, hold, night, body, long, make, sex, bad, take, crazy, mine
+  
 - Mumble Rap
+  - Words associated with topic: ayy, huh, ah, lil, yuh, diamonds, wait, pull, yah, shawty, work, safe, finna, boy, want, hey, f*ck, bands, gang, bust, hmm, wishinracks
+  
 - Old School Gangsta Rap
+  - Words associated with topic: rap, wit, black, man, rock, motherfucker, ass, check, gangsta, big, gun, mic, bust, g, run, rhymes, style, one, rhyme, street, crew, game
+  
 - New School Gangsta Rap
-
+  - Words associated with topic: gang, gucci, bang, bust, slaughter, pump, taylor, murder, lied, lil, pull, wolf, yuh, shit, chain, scum, stain, truly, somehow, addicts, savage, name, rollin, die, wet, throw, drug, rep
 
 
 # Audio Features
