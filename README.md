@@ -23,9 +23,9 @@
 ![image](https://www.digitaltveurope.com/files/2020/07/Logic-768x576.jpg)
 
 
-
-
 # NLP and Topic Modeling
+
+## 6 topics
 
 
 
