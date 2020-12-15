@@ -30,6 +30,7 @@
   - Words associated with topic: life, feel, away, would, day, never, everything, us, could, god, mind, world, ever die, people, way, said, time, pain
 
 - Club/Materialistic
+  - Words associated with topic: money, fuck, hoes, h*, p**sy, gang, lil, sh*t, ass, bad, d*ck, boy, pull, rich, smoke, hundred, big, diamonds, getting, new, talkin
 - Love/Romance
 - Mumble Rap
 - Old School Gangsta Rap
