@@ -26,6 +26,12 @@
 # NLP and Topic Modeling
 
 ## 6 topics
+- Lyrical/Introspective
+- Club/Materialistic
+- Love/Romance
+- Mumble Rap
+- Old School Gangsta Rap
+- New School Gangsta Rap
 
 
 
