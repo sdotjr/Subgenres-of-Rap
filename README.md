@@ -27,6 +27,8 @@
 
 ## 6 topics
 - Lyrical/Introspective
+  - Words associated with topic: life, feel, away, would, day, never, everything, us, could, god, mind, world, ever die, people, way, said, time, pain
+
 - Club/Materialistic
 - Love/Romance
 - Mumble Rap
