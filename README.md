@@ -30,7 +30,7 @@
   - Words associated with topic: life, feel, away, would, day, never, everything, us, could, god, mind, world, ever die, people, way, said, time, pain
 
 - Club/Materialistic
-  - Words associated with topic: money, fuck, hoes, h*, p**sy, gang, lil, sh*t, ass, bad, d*ck, boy, pull, rich, smoke, hundred, big, diamonds, getting, new, talkin
+  - Words associated with topic: money, f*ck, h**s, h*, p**sy, gang, lil, sh*t, ass, bad, d*ck, boy, pull, rich, smoke, hundred, big, diamonds, getting, new, talkin
   
 - Love/Romance
   - Words associated with topic: love, baby, girl, wan, need, hey, shawty, want, girls, good, right, let, tell, tonight, hold, night, body, long, make, sex, bad, take, crazy, mine
