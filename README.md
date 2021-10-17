@@ -1,4 +1,4 @@
-# Capstone-2
+
 # Data
 5000+ rap song database from the most 50 popular songs on Genius.com from 100+ rap artists
 
@@ -50,5 +50,6 @@
 
 # Billboard Top 10 Rap Songs from 2014 to present
 
+![image](https://github.com/sdotjr/Subgenres-of-Rap/blob/main/images/over_time.png?raw=true)
 
 
